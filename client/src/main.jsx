@@ -18,3 +18,6 @@ root.render(
     </Router>
   </ThirdwebProvider> 
 )
+
+
+// validate a single block initially.
